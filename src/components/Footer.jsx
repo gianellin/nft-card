@@ -3,12 +3,13 @@ import "../App.css";
 
 
 
+
 function Footer() {
   return (
 
-            <div class="footer">
-                <img scr="./images/image-avatar.png" alt="avatar"/> 
-                <p id="text" >Creation of <b id="creator" >Jules Wyvern</b></p>
+            <div className="footer mt-3">
+                <img src="./images/image-avatar.png" className="avatar me-3 " alt="avatar"/> 
+                <p id="text">Creation of <a className="author-link fw-bold">Jules Wyvern</a></p>
             </div>
 
 );

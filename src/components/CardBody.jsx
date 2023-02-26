@@ -9,12 +9,12 @@ function CardBody() {
    
         <Card.Body>
           
-                <Card.Title className="my-2">Equilibrium #3429</Card.Title>
+                <Card.Title className="title"><b>Equilibrium #3429</b></Card.Title>
                 <Card.Text className="my-3" id="text" >
                  Our Equilibrium collection promotes balance and calm.
                 </Card.Text>
-                <div class="icons">
-                    <div class="eth">
+                <div className="icons">
+                    <div class="eth ">
                         <img src="./images/icon-ethereum.svg" alt="eth"/>
                         <span>0.041 ETH</span>
                     </div>
@@ -22,8 +22,8 @@ function CardBody() {
                         <img src="./images/icon-clock.svg" alt="clock"/>
                         <span>3 days left</span>
                     </div>
-                    </div>
-                <div class="divider"></div>
+                </div>
+                <div class="divider mt-3"></div>
                 <Footer />
         </Card.Body>
       

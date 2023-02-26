@@ -7,12 +7,12 @@ import CardBody from "./CardBody.jsx";
 function Build() {
   return (
 
-      <Card style={{    width: '20rem',
-                        padding: '1.3vh',
+      <Card style={{    width: '22rem',
                         background:'hsl(216, 50%, 16%)',
+                        color: "white",
                         
                     }}
-            className="shadow p-3 rounded-4">
+            className=" shadow p-3 rounded-4">
         <CardImage />
         <CardBody />
     
