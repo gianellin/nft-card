@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/nft-card-component-with-reactbootstrap-IbPfnzCZfb)
+- Live Site URL: [Demo](https://lucky-duckanoo-bcbafc.netlify.app/)
 
 ## My process
 
@@ -62,7 +62,8 @@ I plan to keep working on projects and challenges to hone up my skills in React,
 ### Useful resources
 
 - [React-Bootstrap Documentation](https://react-bootstrap.github.io/getting-started/introduction/) - This helped me define my components for this asset. I could divide items, and use suggested styling.
-- [Hover Selector](https://www.w3schools.com/cssref/sel_hover.php) - This is a "indepth" resource for CSS, specific to the hover selector, and it provides good examples on how to use it.
+- [W3 Schools - Hover Selector](https://www.w3schools.com/cssref/sel_hover.php) - This is a "indepth" resource for CSS, specific to the hover selector, and it provides good examples on how to use it.
+- [Stack Overflow - Deployment error handling ](https://stackoverflow.com/users/saves/20241958/all). This post helped me with the following deployment error: "Failed during stage 'building site': Build script returned non-zero exit code: 2".
 
 
 ## Author
